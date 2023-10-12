@@ -1,0 +1,68 @@
+[
+    {
+    "id":"1",
+    "name":"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",
+    "img":"assets/images/1.webp",
+    "discription":"6 GB RAM | 128 GB ROM 16.71 cm (6.58 inch) Full HD+ Display 50MP + 2MP | 8MP Front Camera 5000 mAh BatteryDimensity 6020 Processor 1 Year of Device & 6 Months for Inbox Accessories",
+    "type":"fashion",
+    "color":"blue",
+    "price":47.99,
+    "discount":10,
+    "quantity":0
+},
+{
+    "id":"2",
+    "name":"POCO C51 (Power Black, 64 GB)",
+    "img":"assets/images/2.webp",
+    "discription":"6 GB RAM | 128 GB ROM 16.71 cm (6.58 inch) Full HD+ Display 50MP + 2MP | 8MP Front Camera 5000 mAh BatteryDimensity 6020 Processor 1 Year of Device & 6 Months for Inbox Accessories",
+    "type":"fashion",
+    "color":"black",
+    "price":69.99,
+    "discount":11,
+    "quantity":0
+},
+{
+    "id":"3",
+    "name":"vivo T2x 5G (Marine Blue, 128 GB)",
+    "img":"assets/images/3.webp",
+    "discription":"6 GB RAM | 128 GB ROM 16.71 cm (6.58 inch) Full HD+ Display 50MP + 2MP | 8MP Front Camera 5000 mAh BatteryDimensity 6020 Processor 1 Year of Device & 6 Months for Inbox Accessories",
+    "type":"fashion",
+    "color":"blue",
+    "price":59.99,
+    "discount":10,
+    "quantity":0
+},
+{
+    "id":"4",
+    "name":"REDMI 11 Prime (Flashy Black, 128 GB)",
+    "img":"assets/images/4.webp",
+    "discription":"6 GB RAM | 128 GB ROM 16.71 cm (6.58 inch) Full HD+ Display 50MP + 2MP | 8MP Front Camera 5000 mAh BatteryDimensity 6020 Processor 1 Year of Device & 6 Months for Inbox Accessories",
+    "type":"fashion",
+    "color":"black",
+    "price":59.99,
+    "discount":10,
+    "quantity":0
+},
+{
+    "id":"5",
+    "name":"Infinix SMART 7 (Azure Blue, 64 GB)",
+    "img":"assets/images/5.webp",
+    "discription":"6 GB RAM | 128 GB ROM 16.71 cm (6.58 inch) Full HD+ Display 50MP + 2MP | 8MP Front Camera 5000 mAh BatteryDimensity 6020 Processor 1 Year of Device & 6 Months for Inbox Accessories",
+    "type":"fashion",
+    "color":"blue",
+    "price":59.99,
+    "discount":10,
+    "quantity":0
+},
+{
+    "id":"6",
+    "name":"POCO C55 (Forest Green, 64 GB)",
+    "img":"assets/images/6.webp",
+    "discription":"6 GB RAM | 128 GB ROM 16.71 cm (6.58 inch) Full HD+ Display 50MP + 2MP | 8MP Front Camera 5000 mAh BatteryDimensity 6020 Processor 1 Year of Device & 6 Months for Inbox Accessories",
+    "type":"fashion",
+    "color":"green",
+    "price":79.99,
+    "discount":10,
+    "quantity":0
+}
+]
